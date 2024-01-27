@@ -70,3 +70,6 @@ form input.sub{
 form input.mul{
     background-color: #FFA500;
 }
+input: hover {
+background:#f5f5f5
+}
